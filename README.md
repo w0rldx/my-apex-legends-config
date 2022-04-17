@@ -1,10 +1,22 @@
-# My Apex Legends Custom config
+# My Apex Legends config
+
+## Path:
+
+### autoexec.cfg if you installed on default drive:
+
+`%ProgramFiles(x86)%\Steam\steamapps\common\Apex Legends\cfg`
+
+### videoconfig.txt
+
+`%UserProfile%\Saved Games\Respawn\Apex\local`
+
+**!! make sure file is readonly !!**
 
 ## Launch Options:
 
 `+fps_max 0 -dev -refresh 240 -dev -m_rawinput 1 +mat_letterbox_aspect_goal 0 +mat_letterbox_aspect_threshold 0 +building_cubemaps "1" -forcenovsync -fullscreen -high +exec autoexec.cfg`
 
-## Nvidia Controll Settings:
+## Nvidia Control Settings:
 
 ![NC-Settings](assets/NC-Settings.png)
 
