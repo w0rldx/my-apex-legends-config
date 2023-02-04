@@ -14,7 +14,7 @@
 
 ## Launch Options:
 
-`+fps_max 0 -dev -refresh 240 -dev -m_rawinput 1 +mat_letterbox_aspect_goal 0 +mat_letterbox_aspect_threshold 0 +building_cubemaps "1" -forcenovsync -fullscreen -high +exec autoexec.cfg`
+`+exec autoexec.cfg +fps_max 0 -dev -refresh 240 -high`
 
 ## Nvidia Control Settings:
 
